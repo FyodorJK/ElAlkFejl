@@ -1,0 +1,44 @@
+{
+  "lakasok": [
+				{ "kerulet": 6, "terulet"	: 75, 	"szobak_szama": 3, "emelet": 2, "ar": 95000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 13, "terulet"	: 58, 	"szobak_szama": 2, "emelet": 4, "ar": 65000000	, "allapot": "jo allapot"	},
+				{ "kerulet": 8, "terulet"	: 45, 	"szobak_szama": 2, "emelet": 1, "ar": 48000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 11, "terulet"	: 82, 	"szobak_szama": 4, "emelet": 3, "ar": 105000000	, "allapot": "uj epitesű" 	},
+				{ "kerulet": 7, "terulet"	: 50, 	"szobak_szama": 2, "emelet": 5, "ar": 57000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 2, "terulet"	: 90, 	"szobak_szama": 4, "emelet": 1, "ar": 120000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 14, "terulet"	: 65, 	"szobak_szama": 3, "emelet": 6, "ar": 72000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 10, "terulet"	: 40, 	"szobak_szama": 1, "emelet": 0, "ar": 37000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 12, "terulet"	: 77, 	"szobak_szama": 3, "emelet": 2, "ar": 89000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 3, "terulet"	: 110, 	"szobak_szama": 5, "emelet": 7, "ar": 135000000	, "allapot": "uj epitesű" 	},
+				{ "kerulet": 4, "terulet"	: 55, 	"szobak_szama": 2, "emelet": 3, "ar": 52000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 9, "terulet"	: 60, 	"szobak_szama": 3, "emelet": 2, "ar": 64000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 5, "terulet"	: 85, 	"szobak_szama": 4, "emelet": 4, "ar": 112000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 1, "terulet"	: 48, 	"szobak_szama": 2, "emelet": 1, "ar": 61000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 15, "terulet"	: 70, 	"szobak_szama": 3, "emelet": 5, "ar": 69000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 17, "terulet"	: 95, 	"szobak_szama": 4, "emelet": 2, "ar": 98000000	, "allapot": "uj epitesű" 	},
+				{ "kerulet": 18, "terulet"	: 54, 	"szobak_szama": 2, "emelet": 6, "ar": 58000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 16, "terulet"	: 66, 	"szobak_szama": 3, "emelet": 2, "ar": 71000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 20, "terulet"	: 100, 	"szobak_szama": 5, "emelet": 1, "ar": 115000000	, "allapot": "uj epitesű" 	},
+				{ "kerulet": 19, "terulet"	: 59, 	"szobak_szama": 2, "emelet": 3, "ar": 60000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 21, "terulet"	: 62, 	"szobak_szama": 3, "emelet": 4, "ar": 63000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 22, "terulet"	: 72, 	"szobak_szama": 3, "emelet": 5, "ar": 76000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 23, "terulet"	: 35, 	"szobak_szama": 1, "emelet": 0, "ar": 34000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 6, "terulet"	: 80, 	"szobak_szama": 3, "emelet": 3, "ar": 95000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 13, "terulet"	: 60, 	"szobak_szama": 2, "emelet": 6, "ar": 67000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 8, "terulet"	: 42, 	"szobak_szama": 1, "emelet": 1, "ar": 45000000	, "allapot": "felujitando" 	},
+				{ "kerulet": 11, "terulet"	: 76, 	"szobak_szama": 3, "emelet": 3, "ar": 94000000	, "allapot": "uj epitesű" 	},
+				{ "kerulet": 7, "terulet"	: 52, 	"szobak_szama": 2, "emelet": 2, "ar": 56000000	, "allapot": "jo allapotu" 	},
+				{ "kerulet": 14, "terulet"	: 68, 	"szobak_szama": 3, "emelet": 4, "ar": 73000000	, "allapot": "felujitott" 	},
+				{ "kerulet": 10, "terulet"	: 47, 	"szobak_szama": 2, "emelet": 2, "ar": 50000000	, "allapot": "felujitando" 	}
+  ]
+}
+
+
+
+
+
+
+
+
+
+
